@@ -89,7 +89,7 @@ ai.predict(X_n1_1)
 
 
 ## OUTPUT:
-# Training Loss Vs Iteration Plot:
+### Training Loss Vs Iteration Plot:
 ![image](https://github.com/swethamohanraj/Developing-a-Neural-Network-Regression-Model/assets/94228215/1b08575c-09ee-4e96-bce5-d1e47e2c446b)
 
 
